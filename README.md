@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AyeshaAhmedScripts
+- 👀 I’m interested in learning more about coding.
+- 🌱 I’m currently learning Python.
+- ⚡ Fun fact: The first computer bug was a real moth.
